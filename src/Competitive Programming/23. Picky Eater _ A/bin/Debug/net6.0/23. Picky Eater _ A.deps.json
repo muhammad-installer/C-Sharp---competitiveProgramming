@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "23. Picky Eater _ A/1.0.0": {
+        "runtime": {
+          "23. Picky Eater _ A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23. Picky Eater _ A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

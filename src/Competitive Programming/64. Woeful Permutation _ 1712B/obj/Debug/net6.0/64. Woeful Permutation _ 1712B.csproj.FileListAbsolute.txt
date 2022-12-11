@@ -1,0 +1,14 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\bin\Debug\net6.0\64. Woeful Permutation _ 1712B.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\bin\Debug\net6.0\64. Woeful Permutation _ 1712B.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\bin\Debug\net6.0\64. Woeful Permutation _ 1712B.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\bin\Debug\net6.0\64. Woeful Permutation _ 1712B.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\bin\Debug\net6.0\ref\64. Woeful Permutation _ 1712B.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\bin\Debug\net6.0\64. Woeful Permutation _ 1712B.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\ref\64. Woeful Permutation _ 1712B.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Woeful Permutation _ 1712B\obj\Debug\net6.0\64. Woeful Permutation _ 1712B.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "43. In Search of an Easy Problem _ 1030A/1.0.0": {
+        "runtime": {
+          "43. In Search of an Easy Problem _ 1030A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "43. In Search of an Easy Problem _ 1030A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

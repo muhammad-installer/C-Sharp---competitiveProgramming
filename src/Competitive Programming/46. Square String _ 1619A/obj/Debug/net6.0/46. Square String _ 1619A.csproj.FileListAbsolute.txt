@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\bin\Debug\net6.0\46. Square String _ 1619A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\bin\Debug\net6.0\46. Square String _ 1619A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\bin\Debug\net6.0\46. Square String _ 1619A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\bin\Debug\net6.0\46. Square String _ 1619A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\bin\Debug\net6.0\ref\46. Square String _ 1619A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\bin\Debug\net6.0\46. Square String _ 1619A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.csproj.AssemblyReference.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\ref\46. Square String _ 1619A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\46. Square String _ 1619A\obj\Debug\net6.0\46. Square String _ 1619A.genruntimeconfig.cache

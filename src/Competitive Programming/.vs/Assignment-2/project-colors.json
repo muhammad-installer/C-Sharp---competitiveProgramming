@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6c15427-d0f9-4b30-a6a5-3e9f4f102678": {
+      "ProjectGuid": "b6c15427-d0f9-4b30-a6a5-3e9f4f102678",
+      "DisplayName": "1. Raising Bacteria _579A",
+      "ColorIndex": 0
+    },
+    "41e5b185-f450-4079-b51a-6f0e7f813510": {
+      "ProjectGuid": "41e5b185-f450-4079-b51a-6f0e7f813510",
+      "DisplayName": "2. Water mellon _ 4A",
+      "ColorIndex": 1
+    },
+    "9c01f723-d345-41a4-bd32-0c1ef282bf30": {
+      "ProjectGuid": "9c01f723-d345-41a4-bd32-0c1ef282bf30",
+      "DisplayName": "3. Way Too Long String _71A",
+      "ColorIndex": 2
+    },
+    "f358fa22-fe2b-4793-b9ca-c084cbfe304f": {
+      "ProjectGuid": "f358fa22-fe2b-4793-b9ca-c084cbfe304f",
+      "DisplayName": "4. Bit++ _ 282A",
+      "ColorIndex": 3
+    },
+    "a7788ff8-39d1-492e-9a0f-66d821e516dc": {
+      "ProjectGuid": "a7788ff8-39d1-492e-9a0f-66d821e516dc",
+      "DisplayName": "5. Petya and Strings _ 112A",
+      "ColorIndex": 4
+    },
+    "eb075702-77c9-4586-a503-ba2462301394": {
+      "ProjectGuid": "eb075702-77c9-4586-a503-ba2462301394",
+      "DisplayName": "6. String Task_118A",
+      "ColorIndex": 5
+    },
+    "9790de2c-d759-4bbb-b14d-3b85c89e9ce8": {
+      "ProjectGuid": "9790de2c-d759-4bbb-b14d-3b85c89e9ce8",
+      "DisplayName": "7. Helpful Maths _ 339A",
+      "ColorIndex": 6
+    },
+    "7e12a437-f714-4575-bceb-21ba32ab55f5": {
+      "ProjectGuid": "7e12a437-f714-4575-bceb-21ba32ab55f5",
+      "DisplayName": "8. Stones on the Table _ 266A",
+      "ColorIndex": 7
+    },
+    "14949bb7-d459-4611-bf60-141be0272a95": {
+      "ProjectGuid": "14949bb7-d459-4611-bf60-141be0272a95",
+      "DisplayName": "9. Boy or Girl _ 236A",
+      "ColorIndex": 8
+    },
+    "64f579ce-94da-4e1d-81d8-acf17d95af52": {
+      "ProjectGuid": "64f579ce-94da-4e1d-81d8-acf17d95af52",
+      "DisplayName": "10. Football _ 96A",
+      "ColorIndex": 9
+    },
+    "e49e7cfa-5f31-4053-9a29-a6be7e90fb9b": {
+      "ProjectGuid": "e49e7cfa-5f31-4053-9a29-a6be7e90fb9b",
+      "DisplayName": "11. Soldier and Bananas _ 546A",
+      "ColorIndex": 10
+    },
+    "a39bed6e-2ebe-4b28-8c1b-0ee330f0e5df": {
+      "ProjectGuid": "a39bed6e-2ebe-4b28-8c1b-0ee330f0e5df",
+      "DisplayName": "12. Bear and Big Brother _ 791A",
+      "ColorIndex": 11
+    },
+    "ef999ac9-070e-4ee0-9dba-f4224127dd3a": {
+      "ProjectGuid": "ef999ac9-070e-4ee0-9dba-f4224127dd3a",
+      "DisplayName": "13. Wrong Subtraction __ 977A",
+      "ColorIndex": 12
+    },
+    "2fc416ad-e94c-4389-bb84-9b3051036e29": {
+      "ProjectGuid": "2fc416ad-e94c-4389-bb84-9b3051036e29",
+      "DisplayName": "14. Elephant _ 617A",
+      "ColorIndex": 13
+    },
+    "839c2e8d-1c62-49f4-a58a-cb3ec3e29dad": {
+      "ProjectGuid": "839c2e8d-1c62-49f4-a58a-cb3ec3e29dad",
+      "DisplayName": "15. Word _ 59A",
+      "ColorIndex": 14
+    },
+    "da4acb0c-c4bb-4bc4-a3d5-864492c8c983": {
+      "ProjectGuid": "da4acb0c-c4bb-4bc4-a3d5-864492c8c983",
+      "DisplayName": "16. Tram _ 116A",
+      "ColorIndex": 15
+    },
+    "7536e09a-f174-43d2-b944-4f061b2096ba": {
+      "ProjectGuid": "7536e09a-f174-43d2-b944-4f061b2096ba",
+      "DisplayName": "17. Chat room _ 58A",
+      "ColorIndex": 0
+    },
+    "07e4105d-09d6-4e9f-9661-6b56d0c57ca8": {
+      "ProjectGuid": "07e4105d-09d6-4e9f-9661-6b56d0c57ca8",
+      "DisplayName": "18. HQ9+ _ 133A",
+      "ColorIndex": 1
+    },
+    "dda24abb-1e95-4013-975d-7e56ba8f988b": {
+      "ProjectGuid": "dda24abb-1e95-4013-975d-7e56ba8f988b",
+      "DisplayName": "19. Nearly Lucky Number_110A",
+      "ColorIndex": 2
+    },
+    "9da44cbd-96e0-49d2-9567-895da45b1590": {
+      "ProjectGuid": "9da44cbd-96e0-49d2-9567-895da45b1590",
+      "DisplayName": "20. Translation _ 41A",
+      "ColorIndex": 3
+    },
+    "42982e82-b607-4089-964b-46dbfe685d21": {
+      "ProjectGuid": "42982e82-b607-4089-964b-46dbfe685d21",
+      "DisplayName": "21. Anton and Danik _ 734A",
+      "ColorIndex": 4
+    },
+    "bbf272ab-659e-4f19-b9ad-274d6c81e511": {
+      "ProjectGuid": "bbf272ab-659e-4f19-b9ad-274d6c81e511",
+      "DisplayName": "22. Beautiful Matrix _ 263A",
+      "ColorIndex": 5
+    },
+    "9486d5f3-f1c3-48a7-a781-bf859ff22541": {
+      "ProjectGuid": "9486d5f3-f1c3-48a7-a781-bf859ff22541",
+      "DisplayName": "23. Picky Eater _ A",
+      "ColorIndex": 6
+    },
+    "371361e0-2419-4010-a556-35ba23eb4043": {
+      "ProjectGuid": "371361e0-2419-4010-a556-35ba23eb4043",
+      "DisplayName": "29. cAPS lOCK _ 131A",
+      "ColorIndex": 7
+    },
+    "2c541c1e-15cd-404a-8893-ed06287d71ad": {
+      "ProjectGuid": "2c541c1e-15cd-404a-8893-ed06287d71ad",
+      "DisplayName": "28. The number of positions _ 124A",
+      "ColorIndex": 8
+    },
+    "e7c1c90a-7704-4d91-8062-18cda1f870d2": {
+      "ProjectGuid": "e7c1c90a-7704-4d91-8062-18cda1f870d2",
+      "DisplayName": "30. Expression _ 479A",
+      "ColorIndex": 9
+    },
+    "378d5eac-1595-4552-9a2a-684b35f2a66f": {
+      "ProjectGuid": "378d5eac-1595-4552-9a2a-684b35f2a66f",
+      "DisplayName": "36. Queue at the School _ 266B",
+      "ColorIndex": 10
+    },
+    "a277bff3-a3ca-4c8b-9851-537b92405d73": {
+      "ProjectGuid": "a277bff3-a3ca-4c8b-9851-537b92405d73",
+      "DisplayName": "37. Beautiful Year _ 271A",
+      "ColorIndex": 11
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "afd44299-5a76-471b-b61c-56c483391473": {
+      "ProjectGuid": "afd44299-5a76-471b-b61c-56c483391473",
+      "DisplayName": "38. Pangram _ 520A",
+      "ColorIndex": 12
+    },
+    "d509b437-6622-4352-9201-e36b8d04f190": {
+      "ProjectGuid": "d509b437-6622-4352-9201-e36b8d04f190",
+      "DisplayName": "39. Anton and Polyhedrons _ 785A",
+      "ColorIndex": 13
+    },
+    "db098959-4a04-468a-9b16-b4e283596c93": {
+      "ProjectGuid": "db098959-4a04-468a-9b16-b4e283596c93",
+      "DisplayName": "40. Amusing Joke _ 141A",
+      "ColorIndex": 14
+    },
+    "5c87fc8a-1c72-47d6-81cf-c6c4719fbd5a": {
+      "ProjectGuid": "5c87fc8a-1c72-47d6-81cf-c6c4719fbd5a",
+      "DisplayName": "41. Vanya and Fence _ 677A",
+      "ColorIndex": 15
+    },
+    "46de2bca-095d-4ceb-9fb1-5aa0fe4171d0": {
+      "ProjectGuid": "46de2bca-095d-4ceb-9fb1-5aa0fe4171d0",
+      "DisplayName": "42. George and Accommodation _ 467A",
+      "ColorIndex": 0
+    },
+    "4a55ff30-3337-48b9-9ad8-238d53704db0": {
+      "ProjectGuid": "4a55ff30-3337-48b9-9ad8-238d53704db0",
+      "DisplayName": "43. In Search of an Easy Problem _ 1030A",
+      "ColorIndex": 1
+    },
+    "08aae094-5f8d-4d96-b12c-7b57d68e034c": {
+      "ProjectGuid": "08aae094-5f8d-4d96-b12c-7b57d68e034c",
+      "DisplayName": "44. Presents _ 136A",
+      "ColorIndex": 2
+    },
+    "b6f30ad8-f78e-4970-bb5f-07f6e90a5e6c": {
+      "ProjectGuid": "b6f30ad8-f78e-4970-bb5f-07f6e90a5e6c",
+      "DisplayName": "57. Travelling Salesman _ 1713A",
+      "ColorIndex": 3
+    },
+    "6cf6a2be-a7da-4246-bc27-6d78ffdf8da1": {
+      "ProjectGuid": "6cf6a2be-a7da-4246-bc27-6d78ffdf8da1",
+      "DisplayName": "59. Picky Eater _ 102267A",
+      "ColorIndex": 4
+    },
+    "5021922b-b403-4ec6-bace-b5680da27b62": {
+      "ProjectGuid": "5021922b-b403-4ec6-bace-b5680da27b62",
+      "DisplayName": "60. String Search",
+      "ColorIndex": 5
+    },
+    "b58d15dc-677c-4a22-b74f-fdfd1baf8390": {
+      "ProjectGuid": "b58d15dc-677c-4a22-b74f-fdfd1baf8390",
+      "DisplayName": "61. Vector",
+      "ColorIndex": 6
+    },
+    "c7968cee-0427-451b-9b5c-1c73769b0a19": {
+      "ProjectGuid": "c7968cee-0427-451b-9b5c-1c73769b0a19",
+      "DisplayName": "62. List",
+      "ColorIndex": 7
+    },
+    "b50780e8-172e-4a12-9577-9ddca4e107f1": {
+      "ProjectGuid": "b50780e8-172e-4a12-9577-9ddca4e107f1",
+      "DisplayName": "63. Wonderful Permutation 1712A",
+      "ColorIndex": 8
+    },
+    "fe08e563-324c-4db5-82df-9b896468ae39": {
+      "ProjectGuid": "fe08e563-324c-4db5-82df-9b896468ae39",
+      "DisplayName": "64. Woeful Permutation _ 1712B",
+      "ColorIndex": 9
+    },
+    "3fe237d5-ec1f-450c-af41-a224c05271cd": {
+      "ProjectGuid": "3fe237d5-ec1f-450c-af41-a224c05271cd",
+      "DisplayName": "64. Woefull Permutation _ 1712B",
+      "ColorIndex": 10
+    },
+    "8a3738bf-d580-41ea-a739-77f57f4c325c": {
+      "ProjectGuid": "8a3738bf-d580-41ea-a739-77f57f4c325c",
+      "DisplayName": "65. Vector 2",
+      "ColorIndex": 11
+    },
+    "85491223-2487-4b09-9fce-78292395794c": {
+      "ProjectGuid": "85491223-2487-4b09-9fce-78292395794c",
+      "DisplayName": "66. Set Search _ AIZU Online Judge",
+      "ColorIndex": 12
+    },
+    "6aa592a2-6134-4298-a4a0-a0e8bcbcdf27": {
+      "ProjectGuid": "6aa592a2-6134-4298-a4a0-a0e8bcbcdf27",
+      "DisplayName": "67. False Ordering  _ LightOJ",
+      "ColorIndex": 13
+    },
+    "7e8239f4-782d-4b44-866c-2297e62d8425": {
+      "ProjectGuid": "7e8239f4-782d-4b44-866c-2297e62d8425",
+      "DisplayName": "68. Division by 3 _ LightOJ",
+      "ColorIndex": 14
+    },
+    "cce30344-a32e-482b-b378-c58b8df0e04d": {
+      "ProjectGuid": "cce30344-a32e-482b-b378-c58b8df0e04d",
+      "DisplayName": "69. Sum of Factorials _ LightOJ",
+      "ColorIndex": 15
+    },
+    "7d3bc9ed-1a30-4d65-b83b-be011c9757ba": {
+      "ProjectGuid": "7d3bc9ed-1a30-4d65-b83b-be011c9757ba",
+      "DisplayName": "70. Chip Game _ 1719A",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

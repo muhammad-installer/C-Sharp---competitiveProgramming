@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\bin\Debug\net6.0\33. Team _ 231A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\bin\Debug\net6.0\33. Team _ 231A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\bin\Debug\net6.0\33. Team _ 231A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\bin\Debug\net6.0\33. Team _ 231A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\bin\Debug\net6.0\ref\33. Team _ 231A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\bin\Debug\net6.0\33. Team _ 231A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.csproj.AssemblyReference.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\ref\33. Team _ 231A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\33. Team _ 231A\obj\Debug\net6.0\33. Team _ 231A.genruntimeconfig.cache

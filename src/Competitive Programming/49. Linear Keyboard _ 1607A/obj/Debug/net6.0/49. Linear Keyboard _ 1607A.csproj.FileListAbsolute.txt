@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\bin\Debug\net6.0\49. Linear Keyboard _ 1607A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\bin\Debug\net6.0\49. Linear Keyboard _ 1607A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\bin\Debug\net6.0\49. Linear Keyboard _ 1607A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\bin\Debug\net6.0\49. Linear Keyboard _ 1607A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\bin\Debug\net6.0\ref\49. Linear Keyboard _ 1607A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\bin\Debug\net6.0\49. Linear Keyboard _ 1607A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.csproj.AssemblyReference.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\ref\49. Linear Keyboard _ 1607A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\49. Linear Keyboard _ 1607A\obj\Debug\net6.0\49. Linear Keyboard _ 1607A.genruntimeconfig.cache

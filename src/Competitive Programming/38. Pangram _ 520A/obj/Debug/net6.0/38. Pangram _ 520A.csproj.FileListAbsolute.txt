@@ -1,0 +1,14 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\bin\Debug\net6.0\ref\38. Pangram _ 520A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\ref\38. Pangram _ 520A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.genruntimeconfig.cache

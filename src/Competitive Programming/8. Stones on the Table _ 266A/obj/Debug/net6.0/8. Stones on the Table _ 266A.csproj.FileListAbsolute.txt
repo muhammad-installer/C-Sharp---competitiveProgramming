@@ -1,0 +1,14 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\bin\Debug\net6.0\8. Stones on the Table _ 266A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\bin\Debug\net6.0\8. Stones on the Table _ 266A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\bin\Debug\net6.0\8. Stones on the Table _ 266A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\bin\Debug\net6.0\8. Stones on the Table _ 266A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\bin\Debug\net6.0\ref\8. Stones on the Table _ 266A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\bin\Debug\net6.0\8. Stones on the Table _ 266A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\ref\8. Stones on the Table _ 266A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\8. Stones on the Table _ 266A\obj\Debug\net6.0\8. Stones on the Table _ 266A.genruntimeconfig.cache

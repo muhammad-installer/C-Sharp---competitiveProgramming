@@ -1,0 +1,14 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\bin\Debug\net6.0\4. Bit++ _ 282A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\bin\Debug\net6.0\4. Bit++ _ 282A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\bin\Debug\net6.0\4. Bit++ _ 282A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\bin\Debug\net6.0\4. Bit++ _ 282A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\bin\Debug\net6.0\ref\4. Bit++ _ 282A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\bin\Debug\net6.0\4. Bit++ _ 282A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\ref\4. Bit++ _ 282A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\4. Bit++ _ 282A\obj\Debug\net6.0\4. Bit++ _ 282A.genruntimeconfig.cache

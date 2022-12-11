@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "36. Queue at the School _ 266B/1.0.0": {
+        "runtime": {
+          "36. Queue at the School _ 266B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "36. Queue at the School _ 266B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

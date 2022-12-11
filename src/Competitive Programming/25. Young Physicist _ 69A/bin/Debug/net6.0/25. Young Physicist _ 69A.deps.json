@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "25. Young Physicist _ 69A/1.0.0": {
+        "runtime": {
+          "25. Young Physicist _ 69A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25. Young Physicist _ 69A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

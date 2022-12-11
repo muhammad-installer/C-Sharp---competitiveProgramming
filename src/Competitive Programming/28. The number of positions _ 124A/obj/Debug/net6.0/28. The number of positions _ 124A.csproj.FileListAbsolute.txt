@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\bin\Debug\net6.0\28. The number of positions _ 124A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\bin\Debug\net6.0\28. The number of positions _ 124A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\bin\Debug\net6.0\28. The number of positions _ 124A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\bin\Debug\net6.0\28. The number of positions _ 124A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\bin\Debug\net6.0\ref\28. The number of positions _ 124A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\bin\Debug\net6.0\28. The number of positions _ 124A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\ref\28. The number of positions _ 124A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.genruntimeconfig.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\28. The number of positions _ 124A\obj\Debug\net6.0\28. The number of positions _ 124A.csproj.AssemblyReference.cache

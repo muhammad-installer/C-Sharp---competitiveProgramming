@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\bin\Debug\net6.0\63. Wonderful Permutation 1712A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\bin\Debug\net6.0\63. Wonderful Permutation 1712A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\bin\Debug\net6.0\63. Wonderful Permutation 1712A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\bin\Debug\net6.0\63. Wonderful Permutation 1712A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\bin\Debug\net6.0\ref\63. Wonderful Permutation 1712A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\bin\Debug\net6.0\63. Wonderful Permutation 1712A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\ref\63. Wonderful Permutation 1712A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.genruntimeconfig.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\63. Wonderful Permutation 1712A\obj\Debug\net6.0\63. Wonderful Permutation 1712A.csproj.AssemblyReference.cache

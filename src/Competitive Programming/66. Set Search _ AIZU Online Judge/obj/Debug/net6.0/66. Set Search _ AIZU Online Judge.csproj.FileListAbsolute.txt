@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\bin\Debug\net6.0\66. Set Search _ AIZU Online Judge.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\bin\Debug\net6.0\66. Set Search _ AIZU Online Judge.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\bin\Debug\net6.0\66. Set Search _ AIZU Online Judge.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\bin\Debug\net6.0\66. Set Search _ AIZU Online Judge.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\bin\Debug\net6.0\ref\66. Set Search _ AIZU Online Judge.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\bin\Debug\net6.0\66. Set Search _ AIZU Online Judge.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.csproj.AssemblyReference.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\ref\66. Set Search _ AIZU Online Judge.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\66. Set Search _ AIZU Online Judge\obj\Debug\net6.0\66. Set Search _ AIZU Online Judge.genruntimeconfig.cache

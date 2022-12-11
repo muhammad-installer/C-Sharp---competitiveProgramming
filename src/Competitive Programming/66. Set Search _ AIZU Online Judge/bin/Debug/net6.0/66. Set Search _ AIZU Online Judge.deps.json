@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "66. Set Search _ AIZU Online Judge/1.0.0": {
+        "runtime": {
+          "66. Set Search _ AIZU Online Judge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "66. Set Search _ AIZU Online Judge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

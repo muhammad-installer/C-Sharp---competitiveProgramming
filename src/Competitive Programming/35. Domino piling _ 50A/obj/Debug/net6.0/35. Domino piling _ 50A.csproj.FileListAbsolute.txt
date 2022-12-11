@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\bin\Debug\net6.0\35. Domino piling _ 50A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\bin\Debug\net6.0\35. Domino piling _ 50A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\bin\Debug\net6.0\35. Domino piling _ 50A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\bin\Debug\net6.0\35. Domino piling _ 50A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\bin\Debug\net6.0\ref\35. Domino piling _ 50A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\bin\Debug\net6.0\35. Domino piling _ 50A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.csproj.AssemblyReference.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\ref\35. Domino piling _ 50A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\35. Domino piling _ 50A\obj\Debug\net6.0\35. Domino piling _ 50A.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\ref\20. Translation _ 41A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\ref\20. Translation _ 41A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.genruntimeconfig.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.exe
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.deps.json
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.runtimeconfig.json
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\ref\20. Translation _ 41A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.pdb
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.csproj.AssemblyReference.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.AssemblyInfoInputs.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.AssemblyInfo.cs
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.csproj.CoreCompileInputs.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\ref\20. Translation _ 41A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.pdb
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\ref\21. Anton and Danik _ 734A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\ref\21. Anton and Danik _ 734A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.genruntimeconfig.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.exe
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.deps.json
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.runtimeconfig.json
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\ref\21. Anton and Danik _ 734A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.pdb
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.csproj.AssemblyReference.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.AssemblyInfoInputs.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.AssemblyInfo.cs
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.csproj.CoreCompileInputs.cache
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\ref\21. Anton and Danik _ 734A.dll
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.pdb
+C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.exe
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.deps.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.runtimeconfig.json
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\bin\Debug\net6.0\ref\29. cAPS lOCK _ 131A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.csproj.AssemblyReference.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.AssemblyInfoInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.AssemblyInfo.cs
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.csproj.CoreCompileInputs.cache
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\ref\29. cAPS lOCK _ 131A.dll
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.pdb
+C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.genruntimeconfig.cache

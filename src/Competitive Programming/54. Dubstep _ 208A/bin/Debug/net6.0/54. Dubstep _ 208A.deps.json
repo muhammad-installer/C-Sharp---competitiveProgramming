@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "54. Dubstep _ 208A/1.0.0": {
+        "runtime": {
+          "54. Dubstep _ 208A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "54. Dubstep _ 208A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
