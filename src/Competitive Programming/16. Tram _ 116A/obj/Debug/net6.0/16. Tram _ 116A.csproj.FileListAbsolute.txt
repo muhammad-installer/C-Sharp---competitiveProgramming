@@ -12,3 +12,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\16. T
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\16. Tram _ 116A\obj\Debug\net6.0\ref\16. Tram _ 116A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\bin\Debug\net6.0\16. Tram _ 116A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\bin\Debug\net6.0\16. Tram _ 116A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\bin\Debug\net6.0\16. Tram _ 116A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\bin\Debug\net6.0\16. Tram _ 116A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\bin\Debug\net6.0\16. Tram _ 116A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\refint\16. Tram _ 116A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\16. Tram _ 116A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\16. Tram _ 116A\obj\Debug\net6.0\ref\16. Tram _ 116A.dll

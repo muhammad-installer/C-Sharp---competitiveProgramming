@@ -27,3 +27,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Assignment-2\23
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Assignment-2\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Assignment-2\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Assignment-2\23. Picky Eater _ A\obj\Debug\net6.0\ref\23. Picky Eater _ A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\bin\Debug\net6.0\23. Picky Eater _ A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\bin\Debug\net6.0\23. Picky Eater _ A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\bin\Debug\net6.0\23. Picky Eater _ A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\bin\Debug\net6.0\23. Picky Eater _ A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\bin\Debug\net6.0\23. Picky Eater _ A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\refint\23. Picky Eater _ A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\23. Picky Eater _ A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\23. Picky Eater _ A\obj\Debug\net6.0\ref\23. Picky Eater _ A.dll

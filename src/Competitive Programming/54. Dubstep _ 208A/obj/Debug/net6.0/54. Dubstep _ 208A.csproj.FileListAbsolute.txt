@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\54. D
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.genruntimeconfig.cache
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\bin\Debug\net6.0\54. Dubstep _ 208A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\bin\Debug\net6.0\54. Dubstep _ 208A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\bin\Debug\net6.0\54. Dubstep _ 208A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\bin\Debug\net6.0\54. Dubstep _ 208A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\bin\Debug\net6.0\54. Dubstep _ 208A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\refint\54. Dubstep _ 208A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\54. Dubstep _ 208A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\54. Dubstep _ 208A\obj\Debug\net6.0\ref\54. Dubstep _ 208A.dll

@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\40. A
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.genruntimeconfig.cache
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\bin\Debug\net6.0\40. Amusing Joke _ 141A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\bin\Debug\net6.0\40. Amusing Joke _ 141A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\bin\Debug\net6.0\40. Amusing Joke _ 141A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\bin\Debug\net6.0\40. Amusing Joke _ 141A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\bin\Debug\net6.0\40. Amusing Joke _ 141A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\refint\40. Amusing Joke _ 141A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\40. Amusing Joke _ 141A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\40. Amusing Joke _ 141A\obj\Debug\net6.0\ref\40. Amusing Joke _ 141A.dll

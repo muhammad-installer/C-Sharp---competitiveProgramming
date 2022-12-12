@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\58. T
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.genruntimeconfig.cache
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\bin\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\bin\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\bin\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\bin\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\bin\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\refint\58. To Carry or not to Carry _ BEE 1026.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\58. To Carry or not to Carry _ BEE 1026.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\58. To Carry or not to Carry _ BEE 1026\obj\Debug\net6.0\ref\58. To Carry or not to Carry _ BEE 1026.dll

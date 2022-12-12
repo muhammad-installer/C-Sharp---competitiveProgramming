@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\26. L
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\26. Lucky Division _ 122A\obj\Debug\net6.0\ref\26. Lucky Division _ 122A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\bin\Debug\net6.0\26. Lucky Division _ 122A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\bin\Debug\net6.0\26. Lucky Division _ 122A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\bin\Debug\net6.0\26. Lucky Division _ 122A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\bin\Debug\net6.0\26. Lucky Division _ 122A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\bin\Debug\net6.0\26. Lucky Division _ 122A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\refint\26. Lucky Division _ 122A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\26. Lucky Division _ 122A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\26. Lucky Division _ 122A\obj\Debug\net6.0\ref\26. Lucky Division _ 122A.dll

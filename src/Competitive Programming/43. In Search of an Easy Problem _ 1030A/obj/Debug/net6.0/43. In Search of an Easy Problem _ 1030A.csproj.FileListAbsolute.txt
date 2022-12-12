@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\43. I
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.genruntimeconfig.cache
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\bin\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\bin\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\bin\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\bin\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\bin\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\refint\43. In Search of an Easy Problem _ 1030A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\43. In Search of an Easy Problem _ 1030A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\43. In Search of an Easy Problem _ 1030A\obj\Debug\net6.0\ref\43. In Search of an Easy Problem _ 1030A.dll

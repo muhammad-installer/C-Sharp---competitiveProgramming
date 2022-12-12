@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\67. F
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\67. False Ordering  _ LightOJ\obj\Debug\net6.0\ref\67. False Ordering  _ LightOJ.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\bin\Debug\net6.0\67. False Ordering  _ LightOJ.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\bin\Debug\net6.0\67. False Ordering  _ LightOJ.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\bin\Debug\net6.0\67. False Ordering  _ LightOJ.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\bin\Debug\net6.0\67. False Ordering  _ LightOJ.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\bin\Debug\net6.0\67. False Ordering  _ LightOJ.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\refint\67. False Ordering  _ LightOJ.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\67. False Ordering  _ LightOJ.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\67. False Ordering  _ LightOJ\obj\Debug\net6.0\ref\67. False Ordering  _ LightOJ.dll

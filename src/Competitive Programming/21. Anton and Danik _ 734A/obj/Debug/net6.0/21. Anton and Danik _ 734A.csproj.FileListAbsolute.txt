@@ -27,3 +27,18 @@ C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21
 C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\ref\21. Anton and Danik _ 734A.dll
 C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.pdb
 C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\bin\Debug\net6.0\21. Anton and Danik _ 734A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\refint\21. Anton and Danik _ 734A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\21. Anton and Danik _ 734A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\21. Anton and Danik _ 734A\obj\Debug\net6.0\ref\21. Anton and Danik _ 734A.dll

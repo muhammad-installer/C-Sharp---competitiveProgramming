@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. c
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\ref\29. cAPS lOCK _ 131A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\bin\Debug\net6.0\29. cAPS lOCK _ 131A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\refint\29. cAPS lOCK _ 131A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\29. cAPS lOCK _ 131A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\29. cAPS lOCK _ 131A\obj\Debug\net6.0\ref\29. cAPS lOCK _ 131A.dll

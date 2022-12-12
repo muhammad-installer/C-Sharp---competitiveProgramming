@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\39. A
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\ref\39. Anton and Polyhedrons _ 785A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\bin\Debug\net6.0\39. Anton and Polyhedrons _ 785A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\bin\Debug\net6.0\39. Anton and Polyhedrons _ 785A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\bin\Debug\net6.0\39. Anton and Polyhedrons _ 785A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\bin\Debug\net6.0\39. Anton and Polyhedrons _ 785A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\bin\Debug\net6.0\39. Anton and Polyhedrons _ 785A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\refint\39. Anton and Polyhedrons _ 785A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\39. Anton and Polyhedrons _ 785A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\39. Anton and Polyhedrons _ 785A\obj\Debug\net6.0\ref\39. Anton and Polyhedrons _ 785A.dll

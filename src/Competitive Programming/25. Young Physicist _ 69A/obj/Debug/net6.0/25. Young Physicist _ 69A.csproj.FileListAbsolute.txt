@@ -12,3 +12,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\25. Y
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\25. Young Physicist _ 69A\obj\Debug\net6.0\ref\25. Young Physicist _ 69A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\bin\Debug\net6.0\25. Young Physicist _ 69A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\bin\Debug\net6.0\25. Young Physicist _ 69A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\bin\Debug\net6.0\25. Young Physicist _ 69A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\bin\Debug\net6.0\25. Young Physicist _ 69A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\bin\Debug\net6.0\25. Young Physicist _ 69A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\refint\25. Young Physicist _ 69A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\25. Young Physicist _ 69A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\25. Young Physicist _ 69A\obj\Debug\net6.0\ref\25. Young Physicist _ 69A.dll

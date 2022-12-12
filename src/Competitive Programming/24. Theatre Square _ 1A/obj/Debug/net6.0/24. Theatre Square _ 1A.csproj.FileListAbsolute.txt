@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\24. T
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.genruntimeconfig.cache
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\bin\Debug\net6.0\24. Theatre Square _ 1A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\bin\Debug\net6.0\24. Theatre Square _ 1A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\bin\Debug\net6.0\24. Theatre Square _ 1A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\bin\Debug\net6.0\24. Theatre Square _ 1A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\bin\Debug\net6.0\24. Theatre Square _ 1A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\refint\24. Theatre Square _ 1A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\24. Theatre Square _ 1A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\24. Theatre Square _ 1A\obj\Debug\net6.0\ref\24. Theatre Square _ 1A.dll

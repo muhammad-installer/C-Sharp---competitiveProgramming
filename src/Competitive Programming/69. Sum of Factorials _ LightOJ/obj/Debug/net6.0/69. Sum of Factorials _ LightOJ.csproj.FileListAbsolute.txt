@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\69. S
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\ref\69. Sum of Factorials _ LightOJ.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\bin\Debug\net6.0\69. Sum of Factorials _ LightOJ.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\bin\Debug\net6.0\69. Sum of Factorials _ LightOJ.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\bin\Debug\net6.0\69. Sum of Factorials _ LightOJ.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\bin\Debug\net6.0\69. Sum of Factorials _ LightOJ.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\bin\Debug\net6.0\69. Sum of Factorials _ LightOJ.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\refint\69. Sum of Factorials _ LightOJ.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\69. Sum of Factorials _ LightOJ.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\69. Sum of Factorials _ LightOJ\obj\Debug\net6.0\ref\69. Sum of Factorials _ LightOJ.dll

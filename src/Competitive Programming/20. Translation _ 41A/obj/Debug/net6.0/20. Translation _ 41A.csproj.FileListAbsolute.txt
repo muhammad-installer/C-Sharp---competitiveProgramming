@@ -27,3 +27,18 @@ C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20
 C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\ref\20. Translation _ 41A.dll
 C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.pdb
 C:\1. Full stack development\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\bin\Debug\net6.0\20. Translation _ 41A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\refint\20. Translation _ 41A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\20. Translation _ 41A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\20. Translation _ 41A\obj\Debug\net6.0\ref\20. Translation _ 41A.dll

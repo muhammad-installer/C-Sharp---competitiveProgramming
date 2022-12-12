@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\45. S
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.genruntimeconfig.cache
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\bin\Debug\net6.0\45. Short Substrings _ 1367A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\bin\Debug\net6.0\45. Short Substrings _ 1367A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\bin\Debug\net6.0\45. Short Substrings _ 1367A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\bin\Debug\net6.0\45. Short Substrings _ 1367A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\bin\Debug\net6.0\45. Short Substrings _ 1367A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\refint\45. Short Substrings _ 1367A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\45. Short Substrings _ 1367A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\45. Short Substrings _ 1367A\obj\Debug\net6.0\ref\45. Short Substrings _ 1367A.dll

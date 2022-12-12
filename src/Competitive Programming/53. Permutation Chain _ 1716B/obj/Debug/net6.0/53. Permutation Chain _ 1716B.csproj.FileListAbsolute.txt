@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\53. P
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\53. Permutation Chain _ 1716B\obj\Debug\net6.0\ref\53. Permutation Chain _ 1716B.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\bin\Debug\net6.0\53. Permutation Chain _ 1716B.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\bin\Debug\net6.0\53. Permutation Chain _ 1716B.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\bin\Debug\net6.0\53. Permutation Chain _ 1716B.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\bin\Debug\net6.0\53. Permutation Chain _ 1716B.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\bin\Debug\net6.0\53. Permutation Chain _ 1716B.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\refint\53. Permutation Chain _ 1716B.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\53. Permutation Chain _ 1716B.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\53. Permutation Chain _ 1716B\obj\Debug\net6.0\ref\53. Permutation Chain _ 1716B.dll

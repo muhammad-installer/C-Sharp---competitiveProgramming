@@ -12,3 +12,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\48. C
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\ref\48. Casimir's String Solitaire _ 1579A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\bin\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\bin\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\bin\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\bin\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\bin\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\refint\48. Casimir's String Solitaire _ 1579A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\48. Casimir's String Solitaire _ 1579A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\48. Casimir's String Solitaire _ 1579A\obj\Debug\net6.0\ref\48. Casimir's String Solitaire _ 1579A.dll

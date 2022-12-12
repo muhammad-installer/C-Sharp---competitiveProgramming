@@ -13,3 +13,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\55. E
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\55. Even Odds _ 318A\obj\Debug\net6.0\ref\55. Even Odds _ 318A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\bin\Debug\net6.0\55. Even Odds _ 318A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\bin\Debug\net6.0\55. Even Odds _ 318A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\bin\Debug\net6.0\55. Even Odds _ 318A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\bin\Debug\net6.0\55. Even Odds _ 318A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\bin\Debug\net6.0\55. Even Odds _ 318A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\refint\55. Even Odds _ 318A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\55. Even Odds _ 318A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\55. Even Odds _ 318A\obj\Debug\net6.0\ref\55. Even Odds _ 318A.dll

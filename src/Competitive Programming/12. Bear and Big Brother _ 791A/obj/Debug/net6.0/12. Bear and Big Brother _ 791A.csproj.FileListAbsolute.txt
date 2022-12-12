@@ -12,3 +12,18 @@ C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\12. B
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\ref\12. Bear and Big Brother _ 791A.dll
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.pdb
 C:\Users\muhammad\Desktop\aspnet-b7-Muhammad-Ibn-Ali-Reza\src\Assignment-2\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\bin\Debug\net6.0\12. Bear and Big Brother _ 791A.exe
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\bin\Debug\net6.0\12. Bear and Big Brother _ 791A.deps.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\bin\Debug\net6.0\12. Bear and Big Brother _ 791A.runtimeconfig.json
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\bin\Debug\net6.0\12. Bear and Big Brother _ 791A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\bin\Debug\net6.0\12. Bear and Big Brother _ 791A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.csproj.AssemblyReference.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.AssemblyInfoInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.AssemblyInfo.cs
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.csproj.CoreCompileInputs.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\refint\12. Bear and Big Brother _ 791A.dll
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.pdb
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\12. Bear and Big Brother _ 791A.genruntimeconfig.cache
+C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\12. Bear and Big Brother _ 791A\obj\Debug\net6.0\ref\12. Bear and Big Brother _ 791A.dll
