@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Salman Nur\\.nuget\\packages\\": {}
+    "C:\\Users\\muham.MUHAMMAD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\26. Lucky Division _ 122A\\26. Lucky Division _ 122A.csproj",
+      "projectUniqueName": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\26. Lucky Division _ 122A\\26. Lucky Division _ 122A.csproj",
       "projectName": "26. Lucky Division _ 122A",
-      "projectPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\26. Lucky Division _ 122A\\26. Lucky Division _ 122A.csproj",
-      "packagesPath": "C:\\Users\\Salman Nur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\26. Lucky Division _ 122A\\obj\\",
+      "projectPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\26. Lucky Division _ 122A\\26. Lucky Division _ 122A.csproj",
+      "packagesPath": "C:\\Users\\muham.MUHAMMAD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\26. Lucky Division _ 122A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Salman Nur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\muham.MUHAMMAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

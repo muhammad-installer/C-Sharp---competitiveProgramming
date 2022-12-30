@@ -16,7 +16,6 @@ class Program
 
             int len = line.Length;
 
-
             if (line[0] == 0)
             {
                 list.Add(line[1]);
@@ -29,12 +28,6 @@ class Program
             {
                 list.RemoveAt(list.Count - 1);
             }
-
-
-
-
-
-
         }
 
     }

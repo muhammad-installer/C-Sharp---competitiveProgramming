@@ -1,10 +1,7 @@
 ﻿
-
-
 int n = int.Parse(Console.ReadLine());
 string str = Console.ReadLine();
 HashSet<char> vs = new HashSet<char>();
-
 
 
 foreach (char c in str)
@@ -22,3 +19,5 @@ else
     Console.WriteLine("NO");
 
 }
+
+

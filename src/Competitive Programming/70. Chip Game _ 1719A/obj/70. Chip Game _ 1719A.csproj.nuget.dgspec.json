@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj": {}
+    "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj": {
+    "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj",
+        "projectUniqueName": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj",
         "projectName": "70. Chip Game _ 1719A",
-        "projectPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj",
-        "packagesPath": "C:\\Users\\Salman Nur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\obj\\",
+        "projectPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\70. Chip Game _ 1719A.csproj",
+        "packagesPath": "C:\\Users\\muham.MUHAMMAD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\70. Chip Game _ 1719A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Salman Nur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\muham.MUHAMMAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj": {
-                "projectPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj"
+              "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj": {
+                "projectPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj": {
+    "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj",
+        "projectUniqueName": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj",
         "projectName": "8. Stones on the Table _ 266A",
-        "projectPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj",
-        "packagesPath": "C:\\Users\\Salman Nur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Salman Nur\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\obj\\",
+        "projectPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\8. Stones on the Table _ 266A.csproj",
+        "packagesPath": "C:\\Users\\muham.MUHAMMAD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muham.MUHAMMAD\\Desktop\\C-Sharp---competitiveProgramming\\src\\Competitive Programming\\8. Stones on the Table _ 266A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Salman Nur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\muham.MUHAMMAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

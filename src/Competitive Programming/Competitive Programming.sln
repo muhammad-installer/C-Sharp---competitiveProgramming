@@ -146,6 +146,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "69. Sum of Factorials _ Lig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70. Chip Game _ 1719A", "70. Chip Game _ 1719A\70. Chip Game _ 1719A.csproj", "{7D3BC9ED-1A30-4D65-B83B-BE011C9757BA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABC ConsoleApp", "ABC ConsoleApp\ABC ConsoleApp.csproj", "{B1EEF426-7413-4AD5-AA35-406C24A35DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100.1 Logic Development _ Printing Pattern", "71.1 Logic Development _ Printing Pattern\100.1 Logic Development _ Printing Pattern.csproj", "{0DE09610-12CA-411B-A95B-1BC3AE5F5DE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -432,6 +436,14 @@ Global
 		{7D3BC9ED-1A30-4D65-B83B-BE011C9757BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D3BC9ED-1A30-4D65-B83B-BE011C9757BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D3BC9ED-1A30-4D65-B83B-BE011C9757BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EEF426-7413-4AD5-AA35-406C24A35DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EEF426-7413-4AD5-AA35-406C24A35DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EEF426-7413-4AD5-AA35-406C24A35DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EEF426-7413-4AD5-AA35-406C24A35DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE09610-12CA-411B-A95B-1BC3AE5F5DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE09610-12CA-411B-A95B-1BC3AE5F5DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE09610-12CA-411B-A95B-1BC3AE5F5DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE09610-12CA-411B-A95B-1BC3AE5F5DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

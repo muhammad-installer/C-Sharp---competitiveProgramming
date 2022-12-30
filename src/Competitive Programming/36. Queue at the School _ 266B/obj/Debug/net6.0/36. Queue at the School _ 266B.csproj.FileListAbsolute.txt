@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\ref\36. Queue at the School _ 266B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\bin\Debug\net6.0\36. Queue at the School _ 266B.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\bin\Debug\net6.0\36. Queue at the School _ 266B.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\bin\Debug\net6.0\36. Queue at the School _ 266B.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\bin\Debug\net6.0\36. Queue at the School _ 266B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\bin\Debug\net6.0\36. Queue at the School _ 266B.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\refint\36. Queue at the School _ 266B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\36. Queue at the School _ 266B.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\36. Queue at the School _ 266B\obj\Debug\net6.0\ref\36. Queue at the School _ 266B.dll

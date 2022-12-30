@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\ref\64. Woefull Permutation _ 1712B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\bin\Debug\net6.0\64. Woefull Permutation _ 1712B.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\bin\Debug\net6.0\64. Woefull Permutation _ 1712B.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\bin\Debug\net6.0\64. Woefull Permutation _ 1712B.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\bin\Debug\net6.0\64. Woefull Permutation _ 1712B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\bin\Debug\net6.0\64. Woefull Permutation _ 1712B.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\refint\64. Woefull Permutation _ 1712B.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\64. Woefull Permutation _ 1712B.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\64. Woefull Permutation _ 1712B\obj\Debug\net6.0\ref\64. Woefull Permutation _ 1712B.dll

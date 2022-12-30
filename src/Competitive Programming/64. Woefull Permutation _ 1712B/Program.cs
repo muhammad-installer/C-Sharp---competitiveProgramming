@@ -28,24 +28,53 @@
 //}
 
 
+//-------------------------------------------------------------------------
+//using System.Text;
+
+//var q = int.Parse(Console.ReadLine());
+
+//var ansBuilder = new StringBuilder();
+//while (q-- > 0)
+//{
+//    int n = int.Parse(Console.ReadLine());
+//    var permutation = Enumerable.Range(1, n).ToList();
+//    var dif = 0;
+
+//    int i = 0;
+
+//    if (n % 2 == 1)
+//    {
+//        i = 1;
+//    }
+//    for (i = i; i < n; i += 2)
+//    {
+//        (permutation[i], permutation[i + 1]) = (permutation[i + 1], permutation[i]);
+//    }
+//    ansBuilder.Append($"{string.Join(" ", permutation.AsEnumerable().ToList())}\n");
+//}
+//Console.WriteLine(ansBuilder.ToString());
+
+
 using System.Text;
 
-var q = int.Parse(Console.ReadLine());
-
-var ansBuilder = new StringBuilder();
-while (q-- > 0)
+var t = int.Parse(Console.ReadLine());
+var sb = new StringBuilder();
+while (t-- > 0)
 {
-    int n = int.Parse(Console.ReadLine());
-    var permutation = Enumerable.Range(1, n).Reverse().ToList();
-    var dif = 0;
-    if (n % 2 == 1)
+    var n = int.Parse(Console.ReadLine());
+
+    var list = Enumerable.Range(1, n).Reverse().ToList();
+    int d = 0;
+    if ((n & 1) == 1)
     {
-        dif = 1;
+        d = 1;
     }
-    for (var i = 0; i < n - dif; i += 2)
+
+    for (int i = 0; i < n - d; i += 2)
     {
-        (permutation[i], permutation[i + 1]) = (permutation[i + 1], permutation[i]);
+        (list[i], list[i + 1]) = (list[i + 1], list[i]);
     }
-    ansBuilder.Append($"{string.Join(" ", permutation.AsEnumerable().Reverse().ToList())}\n");
+    sb.Append($"{string.Join(" ", list.AsEnumerable().Reverse().ToList())}\n");
+
 }
-Console.WriteLine(ansBuilder.ToString());
+Console.WriteLine(sb);

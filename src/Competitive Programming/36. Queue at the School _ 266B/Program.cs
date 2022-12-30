@@ -1,11 +1,19 @@
 ﻿
+using System.Text;
+
 string[] line1 = Console.ReadLine().Split(' ');
 
 int n = int.Parse(line1[0]);
 int t = int.Parse(line1[1]);    
 
 string str = Console.ReadLine();
-char[] chars = str.ToCharArray();
+//char[] chars = str.ToCharArray();
+
+StringBuilder chars = new StringBuilder();
+foreach (char c in str)
+{
+    chars.Append(c);
+}
 
 
 while (t-- > 0)
@@ -16,7 +24,6 @@ while (t-- > 0)
         {
             (chars[i], chars[i + 1]) = (chars[i + 1], chars[i]);
             i++;
-
         }
     }
 }

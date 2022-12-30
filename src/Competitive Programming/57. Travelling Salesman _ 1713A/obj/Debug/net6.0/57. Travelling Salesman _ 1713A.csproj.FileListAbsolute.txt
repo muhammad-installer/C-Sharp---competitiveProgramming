@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\ref\57. Travelling Salesman _ 1713A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\bin\Debug\net6.0\57. Travelling Salesman _ 1713A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\bin\Debug\net6.0\57. Travelling Salesman _ 1713A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\bin\Debug\net6.0\57. Travelling Salesman _ 1713A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\bin\Debug\net6.0\57. Travelling Salesman _ 1713A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\bin\Debug\net6.0\57. Travelling Salesman _ 1713A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\refint\57. Travelling Salesman _ 1713A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\57. Travelling Salesman _ 1713A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\57. Travelling Salesman _ 1713A\obj\Debug\net6.0\ref\57. Travelling Salesman _ 1713A.dll
