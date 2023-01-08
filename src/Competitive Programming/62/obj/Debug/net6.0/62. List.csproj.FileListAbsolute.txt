@@ -20,3 +20,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.csproj.CoreCompileInputs.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.dll
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\bin\Debug\net6.0\62. List.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\bin\Debug\net6.0\62. List.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\bin\Debug\net6.0\62. List.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\bin\Debug\net6.0\62. List.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\bin\Debug\net6.0\62. List.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\refint\62. List.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\62. List.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\62\obj\Debug\net6.0\ref\62. List.dll

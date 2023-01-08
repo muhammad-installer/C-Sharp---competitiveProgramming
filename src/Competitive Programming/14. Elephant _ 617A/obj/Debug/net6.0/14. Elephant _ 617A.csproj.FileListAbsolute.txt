@@ -27,3 +27,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\ref\14. Elephant _ 617A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\bin\Debug\net6.0\14. Elephant _ 617A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\bin\Debug\net6.0\14. Elephant _ 617A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\bin\Debug\net6.0\14. Elephant _ 617A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\bin\Debug\net6.0\14. Elephant _ 617A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\bin\Debug\net6.0\14. Elephant _ 617A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\refint\14. Elephant _ 617A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\14. Elephant _ 617A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\14. Elephant _ 617A\obj\Debug\net6.0\ref\14. Elephant _ 617A.dll

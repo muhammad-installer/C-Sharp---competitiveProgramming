@@ -27,3 +27,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\ref\10. Football _ 96A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\bin\Debug\net6.0\10. Football _ 96A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\bin\Debug\net6.0\10. Football _ 96A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\bin\Debug\net6.0\10. Football _ 96A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\bin\Debug\net6.0\10. Football _ 96A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\bin\Debug\net6.0\10. Football _ 96A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\refint\10. Football _ 96A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\10. Football _ 96A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\10. Football _ 96A\obj\Debug\net6.0\ref\10. Football _ 96A.dll

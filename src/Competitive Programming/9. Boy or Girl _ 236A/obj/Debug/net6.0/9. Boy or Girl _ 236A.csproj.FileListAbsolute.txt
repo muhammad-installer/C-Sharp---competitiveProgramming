@@ -42,3 +42,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\ref\9. Boy or Girl _ 236A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\bin\Debug\net6.0\9. Boy or Girl _ 236A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\bin\Debug\net6.0\9. Boy or Girl _ 236A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\bin\Debug\net6.0\9. Boy or Girl _ 236A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\bin\Debug\net6.0\9. Boy or Girl _ 236A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\bin\Debug\net6.0\9. Boy or Girl _ 236A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\refint\9. Boy or Girl _ 236A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\9. Boy or Girl _ 236A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\9. Boy or Girl _ 236A\obj\Debug\net6.0\ref\9. Boy or Girl _ 236A.dll

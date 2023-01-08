@@ -27,3 +27,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\ref\15. Word _ 59A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\bin\Debug\net6.0\15. Word _ 59A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\bin\Debug\net6.0\15. Word _ 59A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\bin\Debug\net6.0\15. Word _ 59A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\bin\Debug\net6.0\15. Word _ 59A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\bin\Debug\net6.0\15. Word _ 59A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\refint\15. Word _ 59A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\15. Word _ 59A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\15. Word _ 59A\obj\Debug\net6.0\ref\15. Word _ 59A.dll

@@ -27,3 +27,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\ref\19. Nearly Lucky Number_110A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\bin\Debug\net6.0\19. Nearly Lucky Number_110A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\bin\Debug\net6.0\19. Nearly Lucky Number_110A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\bin\Debug\net6.0\19. Nearly Lucky Number_110A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\bin\Debug\net6.0\19. Nearly Lucky Number_110A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\bin\Debug\net6.0\19. Nearly Lucky Number_110A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\refint\19. Nearly Lucky Number_110A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\19. Nearly Lucky Number_110A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\19. Nearly Lucky Number_110A\obj\Debug\net6.0\ref\19. Nearly Lucky Number_110A.dll

@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\ref\65. Vector 2.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\bin\Debug\net6.0\65. Vector 2.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\bin\Debug\net6.0\65. Vector 2.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\bin\Debug\net6.0\65. Vector 2.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\bin\Debug\net6.0\65. Vector 2.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\bin\Debug\net6.0\65. Vector 2.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\refint\65. Vector 2.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\65. Vector 2.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\65. Vector 2\obj\Debug\net6.0\ref\65. Vector 2.dll

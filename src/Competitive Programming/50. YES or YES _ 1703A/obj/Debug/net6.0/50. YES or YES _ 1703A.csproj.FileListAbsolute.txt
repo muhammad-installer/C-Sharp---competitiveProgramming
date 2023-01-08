@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\ref\50. YES or YES _ 1703A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\bin\Debug\net6.0\50. YES or YES _ 1703A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\bin\Debug\net6.0\50. YES or YES _ 1703A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\bin\Debug\net6.0\50. YES or YES _ 1703A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\bin\Debug\net6.0\50. YES or YES _ 1703A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\bin\Debug\net6.0\50. YES or YES _ 1703A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\refint\50. YES or YES _ 1703A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\50. YES or YES _ 1703A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\50. YES or YES _ 1703A\obj\Debug\net6.0\ref\50. YES or YES _ 1703A.dll

@@ -146,11 +146,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "69. Sum of Factorials _ Lig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70. Chip Game _ 1719A", "70. Chip Game _ 1719A\70. Chip Game _ 1719A.csproj", "{7D3BC9ED-1A30-4D65-B83B-BE011C9757BA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABC ConsoleApp", "ABC ConsoleApp\ABC ConsoleApp.csproj", "{B1EEF426-7413-4AD5-AA35-406C24A35DD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 ABC ConsoleApp", "ABC ConsoleApp\1 ABC ConsoleApp.csproj", "{B1EEF426-7413-4AD5-AA35-406C24A35DD7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100.1 Logic Development _ Printing Pattern", "71.1 Logic Development _ Printing Pattern\100.1 Logic Development _ Printing Pattern.csproj", "{0DE09610-12CA-411B-A95B-1BC3AE5F5DE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100.2 Interview _ Unique prime factors of a number", "100.2 Interview _ Unique prime factors of a number\100.2 Interview _ Unique prime factors of a number.csproj", "{08463174-7731-4815-8EBA-D00BC7EBBA2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100.2 Interview _ Unique prime factors of a number", "100.2 Interview _ Unique prime factors of a number\100.2 Interview _ Unique prime factors of a number.csproj", "{08463174-7731-4815-8EBA-D00BC7EBBA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100.3 Time conversion _ 12to24 _ 24to12", "Time conversion _ 12to24 _ 24to12\100.3 Time conversion _ 12to24 _ 24to12.csproj", "{7BAC7363-A618-4969-90FA-FC0F4BFF22BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -450,6 +452,10 @@ Global
 		{08463174-7731-4815-8EBA-D00BC7EBBA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08463174-7731-4815-8EBA-D00BC7EBBA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08463174-7731-4815-8EBA-D00BC7EBBA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAC7363-A618-4969-90FA-FC0F4BFF22BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAC7363-A618-4969-90FA-FC0F4BFF22BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAC7363-A618-4969-90FA-FC0F4BFF22BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAC7363-A618-4969-90FA-FC0F4BFF22BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

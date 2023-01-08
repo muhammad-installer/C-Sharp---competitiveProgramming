@@ -27,3 +27,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\ref\38. Pangram _ 520A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\bin\Debug\net6.0\38. Pangram _ 520A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\refint\38. Pangram _ 520A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\38. Pangram _ 520A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\38. Pangram _ 520A\obj\Debug\net6.0\ref\38. Pangram _ 520A.dll

@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\ref\34. Next Round _ 158A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\bin\Debug\net6.0\34. Next Round _ 158A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\bin\Debug\net6.0\34. Next Round _ 158A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\bin\Debug\net6.0\34. Next Round _ 158A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\bin\Debug\net6.0\34. Next Round _ 158A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\bin\Debug\net6.0\34. Next Round _ 158A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\refint\34. Next Round _ 158A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\34. Next Round _ 158A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\34. Next Round _ 158A\obj\Debug\net6.0\ref\34. Next Round _ 158A.dll

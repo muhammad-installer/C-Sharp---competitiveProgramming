@@ -28,3 +28,18 @@ C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Pro
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.pdb
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.genruntimeconfig.cache
 C:\Users\Salman Nur\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\ref\42. George and Accommodation _ 467A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\bin\Debug\net6.0\42. George and Accommodation _ 467A.exe
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\bin\Debug\net6.0\42. George and Accommodation _ 467A.deps.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\bin\Debug\net6.0\42. George and Accommodation _ 467A.runtimeconfig.json
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\bin\Debug\net6.0\42. George and Accommodation _ 467A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\bin\Debug\net6.0\42. George and Accommodation _ 467A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.csproj.AssemblyReference.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.AssemblyInfoInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.AssemblyInfo.cs
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.csproj.CoreCompileInputs.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\refint\42. George and Accommodation _ 467A.dll
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.pdb
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\42. George and Accommodation _ 467A.genruntimeconfig.cache
+C:\Users\muham.MUHAMMAD\Desktop\C-Sharp---competitiveProgramming\src\Competitive Programming\42. George and Accommodation _ 467A\obj\Debug\net6.0\ref\42. George and Accommodation _ 467A.dll
